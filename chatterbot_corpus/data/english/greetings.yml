@@ -1,8 +1,10 @@
 categories:
 - greetings
 conversations:
+- - Hello there
+  - General Kanobi
 - - Hello
-  - Hi
+  - Hello there
 - - Hi
   - Hello
 - - Greetings!
@@ -10,7 +12,7 @@ conversations:
 - - Hello
   - Greetings!
 - - Hi, How is it going?
-  - Good
+  - Absolutly horrable
 - - Hi, How is it going?
   - Fine
 - - Hi, How is it going?
@@ -51,4 +53,3 @@ conversations:
   - Nothing much.
 - - What's up?
   - The sky's up but I'm fine thanks. What about you?
-
